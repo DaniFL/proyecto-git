@@ -21,7 +21,7 @@ def mostrar_contenido_ventana(contenido):
     ventana = tk.Tk()
     ventana.title("Contenido del archivo")
 
-    etiqueta = tk.Label(ventana, text=contenido, padx=10, pady=10)
+    etiqueta = tk.Label(ventana, text=contenido, padx=50, pady=50)
     etiqueta.pack()
 
     ventana.mainloop()
