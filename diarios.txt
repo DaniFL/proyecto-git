@@ -1,3 +1,6 @@
 1.- Creado diario
 2.- Actualizado diario Sarosi
 3.- Tu diario
+4.- Modificación de mi diario
+5.- Visualización por consola de mi diario
+6.- Visualización por GUI de mi diario (interfaz)
