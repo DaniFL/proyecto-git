@@ -9,3 +9,19 @@ DIARIO ALUMNO PRUEBA
 21:30 Cena
 22:30 Peli
 24:00 A dormir
+
+---------------------------
+
+DIARIO VERANO ALUMNO PRUEBA
+
+9:00 Despierto
+10:00 Desayuno
+11:00 Deporte
+12:00 Playa / Piscina
+14:00 Comida
+15:00 Siesta
+18:00 Playa / Piscina
+19:00 Amigos
+21:00 Cena
+23:00 Amigos
+24:00 A dormir
